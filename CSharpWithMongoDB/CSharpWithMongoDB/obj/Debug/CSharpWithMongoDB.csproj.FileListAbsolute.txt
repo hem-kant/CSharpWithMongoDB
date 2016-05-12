@@ -1,0 +1,11 @@
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\CSharpWithMongoDB.exe.config
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\CSharpWithMongoDB.exe
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\CSharpWithMongoDB.pdb
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\MongoDB.Bson.dll
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\MongoDB.Driver.dll
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\MongoDB.Bson.xml
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\bin\Debug\MongoDB.Driver.xml
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\obj\Debug\CSharpWithMongoDB.csprojResolveAssemblyReference.cache
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\obj\Debug\CSharpWithMongoDB.exe
+D:\Production Project\CSharpWithMongoDB\CSharpWithMongoDB\obj\Debug\CSharpWithMongoDB.pdb
